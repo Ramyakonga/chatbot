@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/wechaty-ping-pong-bot.git
+git clone https://github.com/Ramyakonga/wechaty-ping-pong-bot.git
 cd wechaty-ping-pong-bot
 Run the bot:
 
